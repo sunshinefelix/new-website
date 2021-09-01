@@ -67,6 +67,20 @@
         <table>
             <tr>
                 <th>month</th>
+                 <th>rent</th>
+                <th>utilities</th>
+                <th>groceries</th>
+                <th>eating out</th>
+                <th>entertainment</th>
+            </tr>
+
+            <tr>
+                <td>august</td>
+                <td>$1500</td>
+                <td>$150</td>
+                <td>$350</td>
+                <td>$100</td>
+                <td>$50</td>
             </tr>
         </table>
 
